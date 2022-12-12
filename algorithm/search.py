@@ -90,4 +90,4 @@ evaluate_test_cases(binary_search,tests)
 
    
 
-# jovian.commit(project='python-binary-search', environment=None)
+jovian.commit(project='python-binary-search', environment=None)
